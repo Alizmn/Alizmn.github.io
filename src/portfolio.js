@@ -281,7 +281,7 @@ const achievementSection = {
     {
       title: 'Full Stack Developer BootCamp',
       subtitle:
-        '',
+        'great',
       image: require('./assets/images/uOttawalogoe.png'),
       footerLink: [
         {name: 'JavaScript', url:''},
