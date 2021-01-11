@@ -21,11 +21,16 @@ export default function WorkExperience() {
                                     key={i}
                                     isDark={isDark}
                                     cardInfo={{
-                                        company: card.company,
+                                        // company: card.company,
+                                        // desc: card.desc,
+                                        // date: card.date,
+                                        // companylogo: card.companylogo,
+                                        // role: card.role,
+                                        // descBullets: card.descBullets
+                                        project: card.project,
+                                        github: card.github,
                                         desc: card.desc,
-                                        date: card.date,
-                                        companylogo: card.companylogo,
-                                        role: card.role,
+                                        projectImage: card.projectImage,
                                         descBullets: card.descBullets
                                     }}
                                 />

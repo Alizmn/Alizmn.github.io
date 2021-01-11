@@ -90,7 +90,7 @@
 }
 
 .experience-text-role {
-    text-align: center;
+    text-align: left;
     color: black;
     font-weight: 700;
     font-size: 25px;
@@ -111,13 +111,18 @@
 }
 
 .experience-text-desc {
-    text-align: center;
+    text-align: left;
 }
 
 .experience-text-details {
     padding: 1.5rem;
     margin-top: 2rem;
 }
+
+/* .project-image {
+    width: 100%;
+    height: 350px;
+} */
 
 /* Media Query */
 

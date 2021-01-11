@@ -27,7 +27,7 @@ export default function socialMedia() {
 
       {socialMediaLinks.gmail ?
       <a href={`mailto:${socialMediaLinks.gmail}`} className="icon-button google" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-google"></i>
+        <i className="far fa-paper-plane"></i>
         <span></span>
       </a>
       :
